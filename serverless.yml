@@ -11,11 +11,11 @@
 #
 # Happy Coding!
 
-service: example-aws-lambda-serverless
+service: gravity-tracker
 
 # app and org for use with dashboard.serverless.com
-app: probot-hello-world-example
-org: probot
+app: probot-gravity-tracker
+org: gravity
 
 frameworkVersion: "2"
 useDotenv: true
